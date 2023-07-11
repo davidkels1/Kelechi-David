@@ -30,7 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidkels1&show_icons=true&locale=en&layout=compact" alt="davidkels1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidkels1&" alt="davidkels1" /></p>
 
 Let's turn ideas into reality with clean code and exceptional user experiences! 💻🚀
 
